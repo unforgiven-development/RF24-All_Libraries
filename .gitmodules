@@ -1,0 +1,27 @@
+[submodule "RF24"]
+	path = RF24
+	url = https://github.com/unforgiven-development/RF24.git
+[submodule "RF24Audio"]
+	path = RF24Audio
+	url = https://github.com/unforgiven-development/RF24Audio.git
+[submodule "RF24Gateway"]
+	path = RF24Gateway
+	url = https://github.com/unforgiven-development/RF24Gateway.git
+[submodule "RF24Network"]
+	path = RF24Network
+	url = https://github.com/unforgiven-development/RF24Network.git
+[submodule "RF24Mesh"]
+	path = RF24Mesh
+	url = https://github.com/unforgiven-development/RF24Mesh.git
+[submodule "RF24Ethernet"]
+	path = RF24Ethernet
+	url = https://github.com/unforgiven-development/RF24Ethernet.git
+[submodule "RF24EthernetLite"]
+	path = RF24EthernetLite
+	url = https://github.com/unforgiven-development/RF24EthernetLite.git
+[submodule "arduino_uip"]
+	path = arduino_uip
+	url = https://github.com/unforgiven-development/arduino_uip.git
+[submodule "TMRpcm"]
+	path = TMRpcm
+	url = https://github.com/unforgiven-development/TMRpcm.git
